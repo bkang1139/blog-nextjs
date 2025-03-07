@@ -42,7 +42,7 @@ export default function Home() {
         </div>
       </div>
       <div
-        className={`hidden md:block absolute top-0 right-0 bottom-0 left-2/3 z-0 ${styles.bg_wisteria}`}
+        className={`hidden md:block absolute top-0 right-0 bottom-0 left-2/3 z-0 ${styles.bg_green}`}
       ></div>
     </main>
   );
