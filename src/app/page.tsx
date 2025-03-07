@@ -17,7 +17,7 @@ export default function Home() {
             </p>
             <a
               href='/blog/posts'
-              className={`outline outline-1 outline-offset-2 border-emerald-500 text-emerald-500 hover:text-white py-2 px-4 rounded hover:bg-emarald-500 md:w-auto ${styles.fit_content}`}
+              className={`outline outline-1 outline-offset-2 border-emerald-500 text-emerald-500 hover:text-white py-2 px-4 rounded hover:bg-emerald-500 md:w-auto ${styles.fit_content}`}
             >
               Read
             </a>
